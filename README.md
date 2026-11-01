@@ -50,7 +50,7 @@ I build scalable **eCommerce, insurance and fintech** systems with 6+ years of h
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anantghadi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamanantghadi/)
 [![Contra](https://img.shields.io/badge/Contra-Portfolio-000000?style=flat)](https://anantghadi.contra.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/anantghadi)
 [![Topmate](https://img.shields.io/badge/Topmate-Book_a_session-1F2937?style=flat)](https://topmate.io/anantghadi)
